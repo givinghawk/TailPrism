@@ -1,0 +1,12 @@
+{
+    "id": "tailprism",
+    "name": "TailPrism",
+    "description": "A dark theme with configurable color.",
+    "version": "1.0.3",
+    "url": "https://google.com",
+    "authors": [
+        "Azuriom"
+    ],
+    "azuriom_api": "1.0.0",
+    "apiId": 15
+}
